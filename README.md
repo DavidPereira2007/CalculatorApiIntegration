@@ -72,7 +72,7 @@ The application will send HTTP requests to the API and display the calculation r
 
 This is a simple educational project focused on learning API integration and client-server communication using C#.
 
-PT-BR
+# PT-BR
 
 # ClientServerCalculator
 
