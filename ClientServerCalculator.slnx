@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="APICalculator/APICalculator.csproj" />
+  <Project Path="Calculator/Calculator.csproj" />
+</Solution>
